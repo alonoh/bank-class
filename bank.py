@@ -20,9 +20,11 @@ class Bank:
             return self.balance
 
 
+"""
 account = Bank(113567, "Alon", 27)
 account.holders_data()
 account.deposit(5)
 account.withdraw(20)
 account.withdraw(28)
 account.holders_data()
+"""
